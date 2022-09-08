@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Connected Workplace" source="x_nuvo_eam">c23545ae4f954a00b794a88ca310c798</dependency>
+        <min_version>17.1.0</min_version>
+        <sys_created_by>student2</sys_created_by>
+        <sys_created_on>2022-09-08 19:03:24</sys_created_on>
+        <sys_id>31276f391b7d55d401aa620f6e4bcb40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Nuvolo" source="ee679f751b3d55d401aa620f6e4bcbcb">ee679f751b3d55d401aa620f6e4bcbcb</sys_package>
+        <sys_updated_by>student2</sys_updated_by>
+        <sys_updated_on>2022-09-08 19:03:24</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

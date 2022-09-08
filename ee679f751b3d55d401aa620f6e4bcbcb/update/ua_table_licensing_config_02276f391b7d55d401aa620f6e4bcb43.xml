@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>u_new_asset_table</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>student2</sys_created_by>
+        <sys_created_on>2022-09-08 19:03:24</sys_created_on>
+        <sys_id>02276f391b7d55d401aa620f6e4bcb43</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_new_asset_table</sys_name>
+        <sys_package display_value="Nuvolo" source="ee679f751b3d55d401aa620f6e4bcbcb">ee679f751b3d55d401aa620f6e4bcbcb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nuvolo">ee679f751b3d55d401aa620f6e4bcbcb</sys_scope>
+        <sys_update_name>ua_table_licensing_config_02276f391b7d55d401aa620f6e4bcb43</sys_update_name>
+        <sys_updated_by>student2</sys_updated_by>
+        <sys_updated_on>2022-09-08 19:03:24</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
